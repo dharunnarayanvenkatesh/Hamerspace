@@ -12,7 +12,7 @@ pip install hamerspace
 pip install hamerspace[full]
 
 # Development installation
-git clone https://github.com/yourusername/hamerspace.git
+git clone https://github.com/dharunnarayanvenkatesh/Hamerspace.git
 cd hamerspace
 pip install -e ".[dev,full]"
 ```
