@@ -140,22 +140,8 @@ hamerspace optimize model.pt --goal auto --size 10 --latency 50 --output optimiz
 - **requirements.txt**: Core dependencies
 - **MANIFEST.in**: Package data inclusion
 
-### Installation Options
-```bash
-# Basic installation
-pip install hamerspace
-
-# Full installation with all backends
-pip install hamerspace[full]
-
-# Development installation
-pip install hamerspace[dev]
-```
-
-## Usage Examples
-
 ### Basic Usage
-```python
+```
 from hamerspace import Optimizer, OptimizationGoal, Constraints
 
 # Load model
@@ -248,15 +234,7 @@ All backends implement consistent interface:
 9. **Multiple backends**: Not locked to single toolkit
 10. **Professional code quality**: Docstrings, logging, structure
 
-## Next Steps for Publishing
 
-1. **Create GitHub repository**
-2. **Run tests in CI/CD** (GitHub Actions)
-3. **Build package**: `python -m build`
-4. **Test on Test PyPI**: Verify installation
-5. **Publish to PyPI**: `twine upload dist/*`
-6. **Create documentation site**: ReadTheDocs or GitHub Pages
-7. **Announce**: Social media, ML communities
 
 ## Technology Stack
 
