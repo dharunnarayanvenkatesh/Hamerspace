@@ -153,6 +153,6 @@ Apache License 2.0
   title={Hamerspace: Model Compression and Optimization Engine},
   author={Hamerspace Contributors},
   year={2025},
-  url={https://github.com/yourusername/hamerspace}
+  url={https://https://github.com/dharunnarayanvenkatesh/Hamerspace}
 }
 ```
