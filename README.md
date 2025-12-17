@@ -12,17 +12,7 @@ Hamerspace is a model compression and optimization engine that orchestrates exis
 - 🎨 **Hardware-aware**: Optimizes for specific target hardware (CPU, ARM, edge devices)
 - 📦 **Deployment-ready**: Produces optimized model artifacts ready for production
 
-## Installation
 
-```bash
-pip install hamerspace
-```
-
-For full backend support (OpenVINO, TVM, bitsandbytes):
-
-```bash
-pip install hamerspace[full]
-```
 
 ## Quick Start
 
